@@ -27,5 +27,5 @@ jobs:
           plugin_music_mode: top
           plugin_music_limit: 5
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_sections: time, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

@@ -468,7 +468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rxi/log.c</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple logging library implemented in C99</div>
@@ -703,7 +703,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Mar 2022, 01:37:00  with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 20 Mar 2022, 06:29:13  with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

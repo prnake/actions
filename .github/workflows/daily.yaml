@@ -15,7 +15,9 @@ jobs:
         env:
             PASSWORD: ${{ secrets.MYHOME_PASSWORD }}
             URL: ${{ secrets.MSG_URL }}
-        run: python3 electricity.py --name papersnake --password $PASSWORD --url "$URL" > electricity.txt
+        run: |
+          pip3 install -r requirements.txt
+          python3 electricity.py --name papersnake --password $PASSWORD --url "$URL" > electricity.txt
 
       - name: 'Commit Files'
         id: commit

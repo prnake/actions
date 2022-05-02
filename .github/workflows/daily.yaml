@@ -1,0 +1,34 @@
+name: 'Daily'
+
+on:
+  schedule: [{cron: "0 */6 * * *"}]
+  workflow_dispatch:
+
+jobs:
+  electricity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout codes'
+        uses: actions/checkout@v2
+      
+      - name: 'Check electricity bill'
+        env:
+            PASSWORD: ${{ secrets.MYHOME_PASSWORD }}
+            URL: ${{ secrets.MSG_URL }}
+        run: python3 electricity.py --name papersnake --password $PASSWORD --url "$URL" > electricity.txt
+
+      - name: 'Commit Files'
+        id: commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -am 'update electricity bill'
+          echo ::set-output name=status::success
+           
+      - name: 'GitHub Push'
+        if: steps.commit.output.status != 'success'
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

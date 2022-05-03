@@ -24,7 +24,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
+          git add electricity.txt
           git diff --quiet && git diff --staged --quiet || git commit -am 'update electricity bill'
           echo ::set-output name=status::success
            

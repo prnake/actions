@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1405" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1395" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1587 Commits
+                            1590 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.0594607558358" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="330.0594607558358" y="0" width="46.00347081872685" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="376.06293157456264" y="0" width="25.721518447753912" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="401.78445002231655" y="0" width="24.108200509227007" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="425.89265053154355" y="0" width="18.409513881791995" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.30216441333556" y="0" width="15.697835586664427" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.0560429426805" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="330.0560429426805" y="0" width="46.00299444617449" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="376.059037388855" y="0" width="25.721252097733455" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="401.7802894865885" y="0" width="24.107950865345682" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="425.8882403519342" y="0" width="18.409323248629768" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.29756360056393" y="0" width="15.702436399436095" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -298,7 +298,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>678 kB</div>
+                                <div>679 kB</div>
                                 <div>3.41%</div>
                             </small>
                         </div>
@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>2Dou/watermarker</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">使用python脚本为图片添加文字水印</div>
@@ -462,10 +462,10 @@
                                     </svg>
                                     <div class="name">
                                         <span>hankcs/HanLP</span>
-                                        <span>starred 24 days ago</span>
+                                        <span>starred 25 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理</div>
+                                <div class="field description">Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic &amp; Semantic Dependency Parsing, Document Classification</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -702,7 +702,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2022, 12:51:14  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 27 Jun 2022, 18:33:42  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

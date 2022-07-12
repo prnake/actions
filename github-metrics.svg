@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1610 Commits
+                            1612 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.8149671820967" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="329.8149671820967" y="0" width="45.969393465030905" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="375.78436064712764" y="0" width="25.702465074907437" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="401.48682572203506" y="0" width="24.090342211557182" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="425.57716793359225" y="0" width="18.395876921259333" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="443.9730448548516" y="0" width="16.02695514514842" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.8108917685615" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="329.8108917685615" y="0" width="45.96882543656956" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="375.779717205131" y="0" width="25.702147478119908" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="401.48186468325093" y="0" width="24.090044535234128" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="425.5719092184851" y="0" width="18.39564960954441" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.96755882802944" y="0" width="16.03244117197054" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -299,7 +299,7 @@
                             </div>
                             <small>
                                 <div>693 kB</div>
-                                <div>3.48%</div>
+                                <div>3.49%</div>
                             </small>
                         </div>
                     </section>
@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Boris-code/feapder</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架</div>
@@ -515,7 +515,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA/FasterTransformer</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Transformer related optimization, including BERT, GPT</div>
@@ -702,7 +702,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jul 2022, 02:29:52  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 12 Jul 2022, 06:34:22  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

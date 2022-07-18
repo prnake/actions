@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1632 Commits
+                            1633 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="329.02062873109617" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="329.02062873109617" y="0" width="45.85867909354428" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="374.8793078246404" y="0" width="25.640562316312423" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="400.51987014095283" y="0" width="24.032322148732575" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="424.5521922896854" y="0" width="18.351571617278505" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="442.90376390696395" y="0" width="17.09623609303602" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="328.9549402697905" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="328.9549402697905" y="0" width="45.849523478959306" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="374.80446374874975" y="0" width="25.635443217573634" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="400.4399069663234" y="0" width="24.027524132663974" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="424.4674310989874" y="0" width="18.347907754296024" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="442.81533885328344" y="0" width="17.184661146716618" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,7 +237,7 @@
                             </div>
                             <small>
                                 <div>14.2 MB</div>
-                                <div>71.53%</div>
+                                <div>71.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -298,8 +298,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>741 kB</div>
-                                <div>3.72%</div>
+                                <div>745 kB</div>
+                                <div>3.74%</div>
                             </small>
                         </div>
                     </section>
@@ -449,7 +449,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        62
+                                        63
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -521,7 +521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>casual-silva/NewsCrawl</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">狠心开源企业级舆情爬虫项目：支持任意数量爬虫一键运行、爬虫定时任务、爬虫批量删除；爬虫一键部署；爬虫监控可视化;  配置集群爬虫分配策略；👉 现成的docker一键部署文档已为大家踩坑</div>
@@ -702,7 +702,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jul 2022, 06:34:05  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jul 2022, 12:51:26  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

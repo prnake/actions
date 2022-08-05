@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1665 Commits
+                            1667 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.2806401275515" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="325.2806401275515" y="0" width="45.33700173394795" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="370.61764186149946" y="0" width="25.997985606364338" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="396.6156274678638" y="0" width="23.75893620279319" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="420.374563670657" y="0" width="21.399267908458288" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.77383157911527" y="0" width="18.226168420884715" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="325.14990831611397" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="325.14990831611397" y="0" width="45.31878058079386" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="370.46868889690785" y="0" width="25.987536894290006" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="396.4562257911979" y="0" width="23.74938737515192" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.2056131663498" y="0" width="21.57554359514432" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="441.78115676149406" y="0" width="18.218843238505915" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,7 +237,7 @@
                             </div>
                             <small>
                                 <div>14.2 MB</div>
-                                <div>70.71%</div>
+                                <div>70.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -260,8 +260,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>939 kB</div>
-                                <div>4.65%</div>
+                                <div>947 kB</div>
+                                <div>4.69%</div>
                             </small>
                         </div>
                     </section>
@@ -275,7 +275,7 @@
                             </div>
                             <small>
                                 <div>1.99 MB</div>
-                                <div>9.86%</div>
+                                <div>9.85%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/GLM-130B</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GLM-130B: An Open Bilingual Pre-Trained Model</div>
@@ -436,7 +436,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        166
+                                        182
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -675,7 +675,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"/>
                             </svg>
-                            ~17 coding hours recorded
+                            ~19 coding hours recorded
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -708,7 +708,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2022, 12:52:27  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Aug 2022, 18:32:04  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

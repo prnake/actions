@@ -132,5 +132,5 @@ elif args.pretty:
     print(key, target['reading'], sep='\t')
 else:
     print(target['reading'])
-if int(target['reading']) < 50:
+if int(target['reading']) < 100:
     requests.get(f"{args.url}电费只有{target['reading']}度了喵")

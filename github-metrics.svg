@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HabanaAI/pytorch-lightning</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.</div>
@@ -521,7 +521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>louislam/uptime-kuma</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fancy self-hosted monitoring tool</div>
@@ -690,7 +690,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Oct 2022, 06:56:06  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 13 Oct 2022, 13:04:40  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

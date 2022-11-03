@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alluxio/alluxio</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alluxio, data orchestration for analytics and machine learning in the cloud</div>
@@ -468,7 +468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Edgenesis/shifu</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes native IoT software development framework.</div>
@@ -521,7 +521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WasmEdge/WasmEdge</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.</div>
@@ -690,7 +690,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2022, 06:35:50  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 3 Nov 2022, 12:54:18  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

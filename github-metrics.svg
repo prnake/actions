@@ -415,7 +415,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wilsonwu/translation-google</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Google Translate component for Nodejs.</div>
@@ -468,7 +468,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Alluxio/alluxio</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alluxio, data orchestration for analytics and machine learning in the cloud</div>
@@ -521,7 +521,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Edgenesis/shifu</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Kubernetes native IoT software development framework.</div>
@@ -690,7 +690,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2022, 06:31:27  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Nov 2022, 12:45:20  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

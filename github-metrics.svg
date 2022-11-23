@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>HazyResearch/flash-attention</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and memory-efficient exact attention</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IST-DASLab/gptq</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for the paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers"</div>
@@ -653,7 +653,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Nov 2022, 01:55:37  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 23 Nov 2022, 06:29:37  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

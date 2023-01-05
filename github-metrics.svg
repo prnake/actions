@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AmazingAng/WTF-Solidity</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Dec 06 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy</div>
@@ -418,7 +418,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        90
+                                        91
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -677,7 +677,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 12:40:55  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 Jan 2023, 18:28:31  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

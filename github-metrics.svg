@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lyh081/Book2Notion</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">将豆瓣图书信息同步到Notion的Chrome插件</div>
@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pengpan/json-format</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JSON在线解析及格式化验证</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jan 2023, 01:42:17  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jan 2023, 06:26:56  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

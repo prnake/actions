@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jetmore/swaks</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swaks - Swiss Army Knife for SMTP</div>
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mosajjal/binary-tools</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of Statically linked binaries for Linux. Suited for Forensics</div>
@@ -653,7 +653,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Mar 2023, 01:51:53  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Mar 2023, 06:27:54  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

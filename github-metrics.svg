@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/readability</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A standalone version of the readability lib</div>
@@ -490,7 +490,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>currentslab/extractnet</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A fork of Dragnet that also extract author, headline, date, keywords from context, as well as built in metadata extraction all in one package</div>
@@ -677,7 +677,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Apr 2023, 06:24:22  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 9 Apr 2023, 12:35:20  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

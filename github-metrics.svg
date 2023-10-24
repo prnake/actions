@@ -219,12 +219,12 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.44478176737766" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="301.44478176737766" y="0" width="45.302946242057885" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="346.7477280094355" y="0" width="42.048295607917574" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="388.79602361735306" y="0" width="31.581530570072697" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="420.37755418742574" y="0" width="24.172984407410137" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="444.55053859483587" y="0" width="15.449461405164051" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.3961058470178" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="301.3961058470178" y="0" width="45.369909619708174" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="346.76601546672595" y="0" width="42.041505842056374" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="388.8075213087823" y="0" width="31.576430929409288" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="420.3839522381916" y="0" width="24.169081064791378" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="444.553033302983" y="0" width="15.446966697017" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -237,7 +237,7 @@
                             </div>
                             <small>
                                 <div>14.2 MB</div>
-                                <div>65.53%</div>
+                                <div>65.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -274,8 +274,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.14 MB</div>
-                                <div>9.85%</div>
+                                <div>2.15 MB</div>
+                                <div>9.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -287,7 +287,7 @@
                             </div>
                             <small>
                                 <div>1.49 MB</div>
-                                <div>6.87%</div>
+                                <div>6.86%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -437,7 +437,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keirp/OpenWebMath</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -672,7 +672,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Oct 2023, 01:18:33  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 24 Oct 2023, 06:26:41  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

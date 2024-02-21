@@ -371,7 +371,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nlmatics/nlm-ingestor</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repo provides the server side code for llmsherpa API to connect. It includes parsers for various file formats.</div>
@@ -664,7 +664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Feb 2024, 12:34:09  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 21 Feb 2024, 18:24:26  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

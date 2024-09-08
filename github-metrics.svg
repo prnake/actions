@@ -384,7 +384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ryanrudolfoba/SteamDeck-Clover-dualboot</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Script to install Clover - a graphical boot manager for the Steam Deck.</div>
@@ -431,7 +431,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CloverHackyColor/CloverBootloader</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bootloader for macOS, Windows and Linux in UEFI and in legacy mode</div>
@@ -671,7 +671,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Sept 2024, 01:48:21  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 8 Sept 2024, 06:29:50  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

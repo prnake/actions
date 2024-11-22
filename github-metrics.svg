@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MurphyLo/cf-openai-sensechat-proxy</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Cloudflare worker script to proxy OpenAI‘s request to Sensetime SenseChat-5 model</div>
@@ -451,7 +451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>osnsyc/Excerptor</span>
-                                        <span>starred 21 days ago</span>
+                                        <span>starred 22 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Extract underlined text or text marked by hands from physical books.</div>
@@ -638,7 +638,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Nov 2024, 06:34:34  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 22 Nov 2024, 12:48:11  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

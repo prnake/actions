@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IgarashiAkatuki/CNMBert</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">为了翻译拼音缩写，基于Bert训练的模型，在命名实体识别，情感分析等多种任务上有应用潜力。中文拼写纠错 Chinese Spelling Correction (CSC)，互联网黑话，拼音缩写</div>
@@ -626,7 +626,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Feb 2025, 01:47:18  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 6 Feb 2025, 06:34:13  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

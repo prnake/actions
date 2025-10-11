@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>marco-trovato/web-knock</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small and simple server security tool, easy to deploy, to protect access to admin ports like SSH.</div>
@@ -638,7 +638,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2025, 01:50:29  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 11 Oct 2025, 06:35:01  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

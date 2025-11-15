@@ -345,7 +345,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ZJaume/heliport</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and accurate language identifier</div>
@@ -445,7 +445,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/finepdfs</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Codebase for FinePDFs</div>
@@ -632,7 +632,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Nov 2025, 01:59:45  with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 15 Nov 2025, 06:47:32  with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
